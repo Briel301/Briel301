@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Briel</h1>
 <h3 align="center">They call me the capybara of the class, and honestly, I'll take it! I'm all about that relaxed, whether I'm learning new tech or just chilling out. passionate for open source. Right now, I'm focused on mastering backend development and database wizardry. Hoping to land a remote role with an English-speaking company.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=briel301" alt="briel301" /></a> </p>
+https://pixel-profile.vercel.app/api/github-stats?username=<Briel301>&theme=journey&pixelate_avatar=false
 
 - 🔭 I’m currently working on [assistance web management](sistema-para-el-control-de-actividades-del-congreso-emprendetect-udeo-2025 Public Briel301/sistema-para-el-control-de-actividades-del-congreso-emprendetect-udeo-2025)
 
