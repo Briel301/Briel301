@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Briel</h1>
-<h3 align="center">They call me the capybara of the class, and honestly, I'll take it! I'm all about that relaxed, whether I'm learning new tech or just chilling out. passionate for open source. Right now, I'm focused on mastering backend development and database wizardry. Hoping to land a remote role with an English-speaking company.</h3>
+<h3 align="center">They call me the capybara of the class, and honestly, I'll take it! I'm all about that relaxed, I'm learning new tech or just chilling out. passionate for open source. Right now, I'm focused on mastering backend development and database wizardry. Hoping to land a remote role with an English-speaking company.</h3>
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Briel301&theme=journey&pixelate_avatar=true">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=6E9A5F&width=435&lines=Powered+by+naps+and+good+vibes;Still+chillin';Debugging+life%2C+one+commit+at+a+time)](https://git.io/typing-svg)
